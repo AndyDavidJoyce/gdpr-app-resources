@@ -1,4 +1,4 @@
-# gdpr-app-resources
+# GDPR App Resources
 A collection of GDPR resources for app developers 
 
 ## Overview 
