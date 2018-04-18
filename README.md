@@ -23,6 +23,8 @@ A collection of GDPR resources for app developers
  * [Allowing Your Users to Manage Data Stored in iCloud](https://developer.apple.com/support/allowing-users-to-manage-data/)
 ## Amazon
  * [AWS and the General Data Protection Regulation (GDPR)](https://aws.amazon.com/blogs/security/aws-and-the-general-data-protection-regulation/)
+## Flurry 
+ * [Flurry Analytics and GDPR](https://developer.yahoo.com/flurry/docs/analytics/gdpr/summary/)
 ## iOS GDPR compliance Examples
  * [Guilherme Rambo - Adapting @chibistudioapp to use the new recommendations from Apple](https://twitter.com/_inside/status/979909236061765634?s=12)
 ## Developer Posts 
