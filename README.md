@@ -36,5 +36,5 @@ A collection of GDPR resources for app developers
  * [Reddit Android Dev - GDPR - opt-in for showing advertising](https://www.reddit.com/r/androiddev/comments/8bywor/gdpr_optin_for_showing_advertising/) 
  * [Reddit Android Dev - GDPR preparations](https://www.reddit.com/r/androiddev/comments/8cr5iz/gdpr_preparations/) 
  * [Reddit Android Dev - GDPR Compliance Help ](https://www.reddit.com/r/androiddev/comments/89ehbc/gdpr_compliance_help/) 
- 
+ * [Did you guys add a confirmation dialog to confirm when crashlytics sends bugs?](https://www.reddit.com/r/androiddev/comments/8axa5g/did_you_guys_add_a_confirmation_dialog_to_confirm/)
  
